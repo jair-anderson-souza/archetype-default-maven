@@ -1,4 +1,4 @@
-# maven-archetype
+# Maven Archetype
 Passos para a geração de seu archetype personalizado <br>
 1 - Clone este projeto <br>
 2 - Navegue até a pasta do projeto <br>
