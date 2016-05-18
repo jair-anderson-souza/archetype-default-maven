@@ -1,0 +1,22 @@
+{
+  "name": "anderson-souza",
+  "homepage": "https://github.com/jass2125/default-project",
+  "authors": [
+    "Anderson Souza <jair_anderson_bs@hotmail.com>"
+  ],
+  "description": "",
+  "main": "index.jsp",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "^2.2.3",
+    "bootstrap": "^3.3.6"
+  }
+}
