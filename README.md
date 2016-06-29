@@ -1,3 +1,13 @@
+Tecnologias - Ferramentas - Frameworks
+<ul>
+  <li>JavaEE</li>
+  <li>mockito-core-1.8.5</li>
+  <li>junit-4.10</li>
+  <li>dbunit-2.4.8</li>
+  <li>mysql-connector-java-5.1.38</li>
+  <li>jetty-embedded-9.2.11.v20150529</li>
+</ul>
+
 # Maven Archetype
 Passos para a geração de seu archetype personalizado <br>
 1 - Clone este projeto <br>
